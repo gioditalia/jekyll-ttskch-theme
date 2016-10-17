@@ -26,7 +26,7 @@
         margin: 0;
         .title {
             display: inline-block;
-            color: lighten($site-title-color, 20%);
+            color: lighten($site-title-color, 5%);
             font-weight: bolder;
             margin-top: 0.5em;
             &.slim {
