@@ -21,13 +21,13 @@
     }
 
     h1 {
-        font-size: 2em;
+        font-size: 1em;
         line-height: 1em;
         margin: 0;
         .title {
             display: inline-block;
             color: $site-title-color;
-            font-weight: bold;
+            font-weight: lighter;
             margin-top: 0.5em;
             &.slim {
                 margin-top: 0;
