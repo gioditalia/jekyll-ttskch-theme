@@ -44,6 +44,8 @@
             margin-top: 0.5em;
             font-weight: lighter;
             color: $site-title-color;
+            text-shadow:2px 2px 5px lighten($site-title-color,20%);
+
         }
     }
 }
