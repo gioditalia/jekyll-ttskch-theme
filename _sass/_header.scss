@@ -29,7 +29,7 @@
             color: lighten($site-title-color, 20%);
             font-weight: bolder;
             margin-top: 0.5em;
-            text-shadow:2px 2px 5px lighten($site-title-color,20%)
+            text-shadow:2px 2px 5px $site-title-color
             &.slim {
                 margin-top: 0;
             }
