@@ -4,7 +4,7 @@
 # url: http://localhost:4000
 # baseurl: ""
 url: https://gioditalia.github.io/
-baseurl: /jekyll-ttskch-theme/
+baseurl: /jekyll-ttskch-theme
 title: Slicedcode
 description: Juicy slices of code.
 avatar: /assets/img/ogp.png
