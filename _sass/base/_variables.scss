@@ -14,7 +14,7 @@ $brand-color: #f65353;
 $secondary-color: #4fc625;
 
 // other major colors.
-$site-title-color: rgba($secondary-color, .6);
+$site-title-color: $secondary-color;
 $page-title-color: $brand-color;
 $background-color: #fff;
 $border-color: rgba(#000, .1);
