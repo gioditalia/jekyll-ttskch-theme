@@ -29,7 +29,7 @@
             color: $site-title-color;
             font-weight: bold;
             margin-top: 0.5em;
-            text-shadow: 2px 2px 10px #fff;
+            text-shadow: 2px 2px 5px #000;
             &.slim {
                 margin-top: 0;
             }
@@ -43,7 +43,7 @@
             line-height: 1em;
             margin-top: 0.5em;
             color: lighten($site-title-color, 20%);
-            text-shadow: 2px 2px 10px #fff;
+            text-shadow: 2px 2px 5px #000;
         }
     }
 }
