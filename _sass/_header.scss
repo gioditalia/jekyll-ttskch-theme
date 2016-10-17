@@ -26,7 +26,7 @@
         margin: 0;
         .title {
             display: inline-block;
-            color: $site-title-color;
+            color: lighten($site-title-color, 20%);
             font-weight: bolder;
             margin-top: 0.5em;
             &.slim {
@@ -42,7 +42,7 @@
             line-height: 1em;
             margin-top: 0.5em;
             font-weight: lighter;
-            color: lighten($site-title-color, 20%);
+            color: $site-title-color;
         }
     }
 }
