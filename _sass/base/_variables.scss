@@ -11,15 +11,15 @@ $margin: 50px;
 
 // brand color.
 $brand-color: #f65353;
-$secondary-color: #2dae00;
+$secondary-color: #4fc625;
 
 // other major colors.
-$site-title-color: rgba($secondary-color, .8);
+$site-title-color: rgba($secondary-color, .6);
 $page-title-color: $brand-color;
 $background-color: #fff;
 $border-color: rgba(#000, .1);
 
 // typography colors.
 $text-color: #383838;
-$link-color: ($secondary-color, 40%);
+$link-color: darken($secondary-color, 20%);
 $blockquote-color: #777;
